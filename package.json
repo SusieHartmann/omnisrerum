@@ -1,0 +1,27 @@
+{
+  "name": "omnisrerum",
+  "version": "1.0.0",
+  "description": "A collection of Set utilities similar to python's",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SusieHartmann/omnisrerum.git"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "Javascript",
+    "Typescript",
+    "iusto"
+  ],
+  "author": "AlanBogisich",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^28.1.3",
+    "jest": "^28.1.1",
+    "jest-junit": "^14.0.0",
+    "ts-jest": "^28.0.5",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.4"
+  },
+  "homepage": "https://github.com/SusieHartmann/omnisrerum.git"
+}
